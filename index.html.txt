@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>LEARNING HTML</title>
+<h1>School Addmission Form</h1>
+<align=center>
+</head>
+<body bgcolor=pink>
+<pre><label>Student name</label>   -	<input type="text"name="last name"></pre>
+<pre><label>class</label>                    -	<input type="text"name="class"></pre>
+<pre><label>Father name</label>     -	<input type="text"name="father name"></pre>
+<pre><label>mobile number</label>-   <input type="text"name="mobile number"></pre>
+<pre><label>occupation</label>        -	<input type="text"name="occupation"></pre>
+<pre><label>mother name</label>   -	<input type="text"name="mother name"></pre>
+<pre><label>mobile number</label>-	<input type="text"name="mobile number"></pre>
+<pre><label>occupation</label>       -	<input type="text"name="occupation"></pre>
+<pre><label>address</label>             -	<input type="text"name="address"></pre>
+<pre><label>department:</label>    -	<input type="text"name="CSE>CSE<input type="checkbox"name="IT"value="IT">IT<input type="checkbox"name="civil">civil<input type="checkbox"name="meech">meech</pre>
+<br></br><label>course:</label><select name="course"><option>select current course</option>
+<option>BCA</option>
+<option>B.Tech</option>
+<option>BSc</option>
+</select></pre><br></br>
+<input type="submit"value="Register">
+<pre><label>Gender:</label>         -	<input type="radio"name="gender"value="male">Male<input type="radio"name="gender"value="Female">Female</pre>
